@@ -1,7 +1,7 @@
-## Description
+This repository contains `sdkSeedProviders.json`, a resource for [Lava Access SDK]([https://github.com/lavanet/lava-sdk](https://github.com/lavanet/lava-sdk)) to discover the first providers to connect to access initial Pairing data. 
 
-This repository contains a JSON file, `pairingList.json`, that lists the RPC addresses of Lava network for different supported providers for both the testnet and mainnet. The file is intended to be used as a resource for developers to bootstrap Lava over Lava. In the lava ecosystem this file is used for Lava SDK, as a way to have a decentralized communication with lava network
+Inspired by common Seed nodes solutions (like Ethereum’s [Bootnodes]([https://github.com/ethereum/go-ethereum/blob/master/params/bootnodes.go](https://github.com/ethereum/go-ethereum/blob/master/params/bootnodes.go))), the Lava network uses the json to offer a decentralized solution for connecting new consumers to the network through provider nodes, enabling accurate data and reliability.
 
-## Using the File
+With “Lava Over Lava”, the SDK is able to provide a robust and accountable connection to the network, taking the best of seed nodes and applying it to the unique Lava ecosystem. 
 
-To use the `pairingList.json` file in your application, simply download the file and parse it using a JSON parser in your programming language of choice. The file contains two sections: `testnet` and `mainnet`, each of which lists the RPC addresses for the respective network.
+It’s Lava’s “eating our own dog” on steroids 🙂🌋
