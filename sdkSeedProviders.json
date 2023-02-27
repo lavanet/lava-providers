@@ -1,30 +1,20 @@
 {
   "testnet": [
     {
-      "rpcAddress": "127.0.0.1:2271",
-      "publicAddress": "lava@1mupyvyhf8eqywy8p33d9ujy8wdq3yvmkw0tus9"
+      "rpcAddress": "providers-us-1.lavanet-zarak.xyz:20106",
+      "publicAddress": "lava@1z0zpqnr6rpv4emalaazkmgt24mzf78ey98x34k"
     },
     {
-      "rpcAddress": "127.0.0.1:2272",
-      "publicAddress": "lava@142qnkyjph993klqpy6scmw3g5zeqjde9zgjshg"
+      "rpcAddress": "providers-us-1.lavanet-zarak.xyz:20206",
+      "publicAddress": "lava@1uezdx4yanjw2uecx7jy4rukya9c0hlj7594hy6"
     },
     {
-      "rpcAddress": "127.0.0.1:2273",
-      "publicAddress": "lava@1k97l9ekat0dsgye6e69x9vpfe0vtpsfsammjad"
-    }
-  ],
-  "mainnet": [
-    {
-      "rpcAddress": "127.0.0.1:2271",
-      "publicAddress": "lava@1mupyvyhf8eqywy8p33d9ujy8wdq3yvmkw0tus9"
+      "rpcAddress": "providers-us-1.lavanet-zarak.xyz:20006",
+      "publicAddress": "lava@1vfpuqq06426z3x4qsn38w6hdqrywqxlc6wmnxp"
     },
     {
-      "rpcAddress": "127.0.0.1:2272",
-      "publicAddress": "lava@142qnkyjph993klqpy6scmw3g5zeqjde9zgjshg"
-    },
-    {
-      "rpcAddress": "127.0.0.1:2273",
-      "publicAddress": "lava@1k97l9ekat0dsgye6e69x9vpfe0vtpsfsammjad"
+      "rpcAddress": "providers-us-1.lavanet-zarak.xyz:19927",
+      "publicAddress": "lava@12u7dam8tyedr82ntwe6zz5e34n6vhr3kjlanaf"
     }
   ]
 }
