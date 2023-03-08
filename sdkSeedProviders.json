@@ -1,14 +1,6 @@
 {
   "testnet": [
     {
-      "rpcAddress": "providers-us-1.lavanet-zarak.xyz:20106",
-      "publicAddress": "lava@1z0zpqnr6rpv4emalaazkmgt24mzf78ey98x34k"
-    },
-    {
-      "rpcAddress": "providers-us-1.lavanet-zarak.xyz:20206",
-      "publicAddress": "lava@1uezdx4yanjw2uecx7jy4rukya9c0hlj7594hy6"
-    },
-    {
       "rpcAddress": "providers-us-1.lavanet-zarak.xyz:20006",
       "publicAddress": "lava@1vfpuqq06426z3x4qsn38w6hdqrywqxlc6wmnxp"
     },
