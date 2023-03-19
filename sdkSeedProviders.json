@@ -1,6 +1,6 @@
 {
   "testnet": {
-    "us": [
+    "north_america": [
       {
         "rpcAddress": "providers-us-1.lavanet-zarak.xyz:19927",
         "publicAddress": "lava@12u7dam8tyedr82ntwe6zz5e34n6vhr3kjlanaf"
