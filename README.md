@@ -4,4 +4,9 @@ Inspired by common Seed nodes solutions (like Ethereum’s [Bootnodes]([https://
 
 With “Lava Over Lava”, the SDK is able to provide a robust and accountable connection to the network, taking the best of seed nodes and applying it to the unique Lava ecosystem. 
 
+Currently:
+geolocation 1 == North America 
+geolocation 2 == Europe
+
+
 It’s Lava’s “eating our own dog” on steroids 🙂🌋
