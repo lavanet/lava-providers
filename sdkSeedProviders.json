@@ -2,21 +2,21 @@
   "testnet": {
     "1": [
       {
-        "rpcAddress": "providers-us-1.lavanet-zarak.xyz:19927",
+        "rpcAddress": "providers-us-1.lavanet-zarak.xyz:19904",
         "publicAddress": "lava@12u7dam8tyedr82ntwe6zz5e34n6vhr3kjlanaf"
       },
       {
-        "rpcAddress": "providers-us-1.lavanet-zarak.xyz:20006",
+        "rpcAddress": "providers-us-1.lavanet-zarak.xyz:20004",
         "publicAddress": "lava@1vfpuqq06426z3x4qsn38w6hdqrywqxlc6wmnxp"
       }
     ],
     "2": [
       {
-        "rpcAddress": "providers-eu-1.lavanet-zarak.xyz:20006",
+        "rpcAddress": "providers-eu-1.lavanet-zarak.xyz:20004",
         "publicAddress": "lava@1kyhxrg453u6lfc77jwezyxrhy0laeuk69cpk4e"
       },
       {
-        "rpcAddress": "providers-eu-1.lavanet-zarak.xyz:19906",
+        "rpcAddress": "providers-eu-1.lavanet-zarak.xyz:19904",
         "publicAddress": "lava@1e4vghfjertxq25l2vv56egkfkvdjk90t0c667v"
       }
     ]
