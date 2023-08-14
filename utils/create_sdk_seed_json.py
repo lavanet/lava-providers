@@ -8,14 +8,16 @@ for k in yml["stakeEntry"]:
     address = k['address']
     stake = int(k['stake']['amount'])
     for i in k['endpoints']:
-        if i['useType'] == "tendermintrpc":
-            port = i['iPPORT']
-            geolocation = i['geolocation']
-            jsonFinal['testnet'][geolocation].append({
-            "rpcAddress": port,
-            "publicAddress": address,
-            "stake": stake
-            })
+        for x in i['api_interfaces']:
+            if x == "tendermintrpc": 
+                port = i['iPPORT']
+                geolocation = i['geolocation']
+                jsonFinal['testnet'][geolocation].append({
+                "rpcAddress": port,
+                "publicAddress": address,
+                "stake": stake
+                })
+                break
 
 def sortLambda(val):
     return val["stake"]
