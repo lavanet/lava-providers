@@ -1,7 +1,7 @@
 import subprocess
 import yaml
 import json
-result = subprocess.check_output(f"lavad q pairing providers LAV1 --node \"http://public-rpc.lavanet.xyz:80/rpc/\" --chain-id lava-testnet-1",shell=True)
+result = subprocess.check_output(f"lavad q pairing providers LAV1 --node \"https://public-rpc-testnet2.lavanet.xyz:443\" --chain-id lava-testnet-2",shell=True)
 jsonFinal = {"testnet": {"1": [], "2": []}}
 yml = yaml.safe_load(result)
 for k in yml["stakeEntry"]:
