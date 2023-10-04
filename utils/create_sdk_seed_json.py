@@ -2,7 +2,7 @@ import subprocess
 import yaml
 import json
 result = subprocess.check_output(f"lavad q pairing providers LAV1 --node \"https://public-rpc-testnet2.lavanet.xyz:443\" --chain-id lava-testnet-2",shell=True)
-jsonFinal = {"testnet": {"1": [], "2": []}}
+jsonFinal = {"testnet": {}}
 yml = yaml.safe_load(result)
 for k in yml["stakeEntry"]:
     address = k['address']
@@ -11,7 +11,10 @@ for k in yml["stakeEntry"]:
         for x in i['api_interfaces']:
             if x == "tendermintrpc": 
                 port = i['iPPORT']
-                geolocation = i['geolocation']
+                geolocation = str(i['geolocation'])
+                print(geolocation, port)
+                if geolocation not in jsonFinal['testnet']: 
+                    jsonFinal['testnet'][geolocation] = []
                 jsonFinal['testnet'][geolocation].append({
                 "rpcAddress": port,
                 "publicAddress": address,
@@ -22,7 +25,7 @@ for k in yml["stakeEntry"]:
 def sortLambda(val):
     return val["stake"]
 
-for i in ["1","2"]:
+for i in jsonFinal["testnet"]:
     jsonFinal["testnet"][i].sort(key=sortLambda,reverse=True)
     for j in jsonFinal["testnet"][i]:
         del j["stake"]
