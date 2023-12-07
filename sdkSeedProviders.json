@@ -2,112 +2,192 @@
     "testnet": {
         "2": [
             {
-                "rpcAddress": "provider2-lav1.providers-eu.lavanet.xyz:443",
-                "publicAddress": "lava@1kyhxrg453u6lfc77jwezyxrhy0laeuk69cpk4e"
+                "rpcAddress": "lava-lava.lefey.tech:443",
+                "publicAddress": "lava@1rsuxf0acf4dy5nahd97uazvqgfkfqvq58rd8hd"
             },
             {
                 "rpcAddress": "lav1.provider-eu-02.chainlayer.cloud:443",
                 "publicAddress": "lava@13hnttwe0h2hhawjsqnqyggvg96t24nlcw7k6mg"
             },
             {
-                "rpcAddress": "provider1-lav1.providers-eu.lavanet.xyz:443",
-                "publicAddress": "lava@1e4vghfjertxq25l2vv56egkfkvdjk90t0c667v"
+                "rpcAddress": "lava-provider.stakeup.tech:443",
+                "publicAddress": "lava@18tdn02v8mkarhpqa804vfnnyam7wcxlyvlt28l"
             },
             {
                 "rpcAddress": "lava-testnet-provider.utsa.tech:443",
                 "publicAddress": "lava@1sdxgfqudxj900szcnzrwv7tanarv4fc26hgchq"
             },
             {
-                "rpcAddress": "lava-testnet-provider.w3coins.io:443",
-                "publicAddress": "lava@1qtmhdxwszrdjum6mwfgg7mtzy2yr5rcvhvut9a"
+                "rpcAddress": "lava-provider.takeshi.team:443",
+                "publicAddress": "lava@17u2dgqu2mx9v78xf5lk6fgrxdyhdx2g82zs2kg"
+            },
+            {
+                "rpcAddress": "lava.megagigaupload.fun:443",
+                "publicAddress": "lava@169y7e47zxul8hzqwf43q4257c6sqdjn29rqnwk"
             },
             {
                 "rpcAddress": "lava-lav1-provider.itrocket.net:443",
                 "publicAddress": "lava@1u77axjrkfq6vkxyp42hc0fjh6pqkacu3dx9t3k"
             },
             {
+                "rpcAddress": "lava.vovscorp.xyz:443",
+                "publicAddress": "lava@1sqadwve50tfcdgcm0f6qepukpmx0rghhk4yhmp"
+            },
+            {
+                "rpcAddress": "lav1-lava-provider.theamsolutions.info:443",
+                "publicAddress": "lava@125xzjslh36v5g76cypzslplqm64mhzz03mwnec"
+            },
+            {
+                "rpcAddress": "lava-test.alexz.site:443",
+                "publicAddress": "lava@10h0ly2066gdnlq508ekq42auwt6rmvc0n5xpj4"
+            },
+            {
+                "rpcAddress": "lava.fednet.ar:443",
+                "publicAddress": "lava@1pdd0nmuj0xfwhfyt7h3wkx9zgjvs3hzle28scu"
+            },
+            {
+                "rpcAddress": "lava.nodeaddict.xyz:443",
+                "publicAddress": "lava@12s54fhrgrt823sklphmty5734wv0rp48h5gtqk"
+            },
+            {
                 "rpcAddress": "lava-provider.lava.liveraven.net:443",
                 "publicAddress": "lava@1w428yq04a5084efz2ljvnwd2cmdlspee7tq8fl"
             },
             {
-                "rpcAddress": "lava-eu.cryptonode.tools:443",
-                "publicAddress": "lava@1f8kg6htavv67x4e54j6zvlg6pwzcsg52k3wu80"
-            },
-            {
-                "rpcAddress": "lava-lava.lefey.tech:443",
-                "publicAddress": "lava@1rsuxf0acf4dy5nahd97uazvqgfkfqvq58rd8hd"
-            },
-            {
-                "rpcAddress": "lava.ksalab.xyz:443",
-                "publicAddress": "lava@1g7xt4prpusv8kutejj5rntg338q7s5uehaplcs"
-            },
-            {
-                "rpcAddress": "lava.nodersteam.com:443",
-                "publicAddress": "lava@1tkhehvca5uur6svd2l83lp704mlhc7xu9rcdqz"
-            },
-            {
-                "rpcAddress": "lava.adaimpulse.club:443",
+                "rpcAddress": "provider-01.lava.impulse.expert:443",
                 "publicAddress": "lava@1q7jyftyahuf66jefc36254rldk6je9xkf5t79z"
-            },
-            {
-                "rpcAddress": "lava-lavatestnet.silentvalidator.com:443",
-                "publicAddress": "lava@1zvfemd9cagdw4aey6jl07nes6zvx43u6vfzf7y"
-            },
-            {
-                "rpcAddress": "lav1.lava-rpc.01no.de:443",
-                "publicAddress": "lava@1czgrha7ys2698xve2gz4xaccteplrzx8s9fh7e"
-            },
-            {
-                "rpcAddress": "lava-provider.anode.team:443",
-                "publicAddress": "lava@136r0tj6uzfq9hlnemng8gzz8qmhddahx9t4azp"
-            },
-            {
-                "rpcAddress": "lava.milak.fun:443",
-                "publicAddress": "lava@1regnkffhmhxtm4rfwkd07nz45axe80fjld6xa8"
-            },
-            {
-                "rpcAddress": "lava.rpc.gumat.top:443",
-                "publicAddress": "lava@16g7cdvjl8x63rl33dq978wz2h6ghp2ezmepu7k"
-            },
-            {
-                "rpcAddress": "lav.5elementsnodes.com:443",
-                "publicAddress": "lava@1e8fz22klkvgd6treqml3twvzk8wlle0tq9zn9r"
-            },
-            {
-                "rpcAddress": "lava-provider.takeshi.team:443",
-                "publicAddress": "lava@17u2dgqu2mx9v78xf5lk6fgrxdyhdx2g82zs2kg"
-            },
-            {
-                "rpcAddress": "provider.node-ctrl.website:443",
-                "publicAddress": "lava@1wx5aahv50s2zm4mlytshr5kvr6n6snsykfczxj"
-            },
-            {
-                "rpcAddress": "provider.jocker-nd.net:443",
-                "publicAddress": "lava@1a2tmjveey5960yc6pn90dqflwr8f5lqfj7ny53"
             },
             {
                 "rpcAddress": "provider.aknodes.net:443",
                 "publicAddress": "lava@1dn5duttgdwu5l7nmhn7jnmpkk348k6t2r58mnp"
             },
             {
-                "rpcAddress": "lava.thehamzak.click:443",
-                "publicAddress": "lava@14zlug6ld6z8akaxg5qw2a2ukw8dhuyn2a88exe"
+                "rpcAddress": "provider.jocker-nd.net:443",
+                "publicAddress": "lava@1a2tmjveey5960yc6pn90dqflwr8f5lqfj7ny53"
             },
             {
-                "rpcAddress": "lava.creeptocat.monster:443",
+                "rpcAddress": "madi.bwglava.space:443",
+                "publicAddress": "lava@10z2xdduvs23hwl6368m37hk7raprz75vacajhf"
+            },
+            {
+                "rpcAddress": "monika.lava.stakevillage.net:443",
+                "publicAddress": "lava@1tlkpa7t48fjl7qan4ete6xh0lsy679flnqdw57"
+            },
+            {
+                "rpcAddress": "lava-provider.anode.team:443",
+                "publicAddress": "lava@136r0tj6uzfq9hlnemng8gzz8qmhddahx9t4azp"
+            },
+            {
+                "rpcAddress": "lav1-lavanet.palamar.io:443",
+                "publicAddress": "lava@12hea3e5jk9yu28087udutfnyej5rc7gqkltm02"
+            },
+            {
+                "rpcAddress": "lavatp.noderun.vip:443",
+                "publicAddress": "lava@1560a34quuvukulp5wqrhc8gvpcyn9rlr3w0ta2"
+            },
+            {
+                "rpcAddress": "lava-test-provider.redbooker.xyz:443",
+                "publicAddress": "lava@1ap2rdg8u6ku0m5vesr6kefkgvfz3fg0jg66plt"
+            },
+            {
+                "rpcAddress": "lava.pocketcat.monster:443",
                 "publicAddress": "lava@1udjq0lden6lscadxkhtr8xhqzp65vje2sdnt8n"
+            },
+            {
+                "rpcAddress": "lava.yellowcircle.cfd:443",
+                "publicAddress": "lava@1mpclhrh6m9rhh9vj5c5z07xdtx79rvpvqjaxx7"
+            },
+            {
+                "rpcAddress": "lava.blackowl.cfd:443",
+                "publicAddress": "lava@1kqf5y6zfps9u70ahfmkyzar5yqegpf3lx5slhz"
+            },
+            {
+                "rpcAddress": "testnet.lava.chaintools.tech:443",
+                "publicAddress": "lava@1jrawgkdvxm8pve7va3vuznmn6u0e7zemzts5q7"
+            },
+            {
+                "rpcAddress": "lav.5elementsnodes.com:443",
+                "publicAddress": "lava@1e8fz22klkvgd6treqml3twvzk8wlle0tq9zn9r"
+            },
+            {
+                "rpcAddress": "lava-provider14.stakevillage.net:443",
+                "publicAddress": "lava@1tq8ngq6sh3k9wlysmp6hswnlt38hcctaqkwcjm"
+            },
+            {
+                "rpcAddress": "albinos12.lava.astrader.net:443",
+                "publicAddress": "lava@1l57uxerrqsclr2y6srzv8e3y5tcrlyjpvaldpp"
+            },
+            {
+                "rpcAddress": "pondr.bwglava.space:443",
+                "publicAddress": "lava@1fy86wc3muclz2lut4yvfqvr26007gyc8k8y5wn"
+            },
+            {
+                "rpcAddress": "lava-t.va1.lt:443",
+                "publicAddress": "lava@18fgqsc9qfcy5z77zg25l3wdel74wymqwe9hvdp"
+            },
+            {
+                "rpcAddress": "herewego.bwglava.space:443",
+                "publicAddress": "lava@1jeueja62954qjywk5cn77u3599afr62f90na7e"
             },
             {
                 "rpcAddress": "provider.sgtstake.com:443",
                 "publicAddress": "lava@1uhwudw7vzqtnffu2hf5yhv4n8trj79ezl66z99"
             },
             {
-                "rpcAddress": "lava.thd.io.vn:443",
-                "publicAddress": "lava@1awymgpc908543xn40vjmdpa503yvszxhvut3np"
+                "rpcAddress": "lava.rpc.gumat.top:443",
+                "publicAddress": "lava@16g7cdvjl8x63rl33dq978wz2h6ghp2ezmepu7k"
             },
             {
-                "rpcAddress": "lava.brandon-validator.sbs:443",
-                "publicAddress": "lava@1lwyx7akkma0kyejl2tkltw0uekvppez3pqpvmh"
+                "rpcAddress": "bablovcoin.wb-ozon-promo.ru:443",
+                "publicAddress": "lava@1jd4ggwv0kffz8pdf3t7spt5r4l86pkaar5ym0q"
+            },
+            {
+                "rpcAddress": "lava.dva.milak.fun:443",
+                "publicAddress": "lava@1regnkffhmhxtm4rfwkd07nz45axe80fjld6xa8"
+            },
+            {
+                "rpcAddress": "lav1.lava-rpc.01no.de:443",
+                "publicAddress": "lava@1czgrha7ys2698xve2gz4xaccteplrzx8s9fh7e"
+            },
+            {
+                "rpcAddress": "lava-testnet-provider.stake-town.com:443",
+                "publicAddress": "lava@1y0ptxml00gxca086ghe9zcl906cu7ljgvk5m28"
+            },
+            {
+                "rpcAddress": "lava.shoni.space:443",
+                "publicAddress": "lava@1hlmuhadpv0l0vezmudkmuhhd23w9jwj35lahqs"
+            },
+            {
+                "rpcAddress": "lava.tenderbeast.monster:443",
+                "publicAddress": "lava@1hp86nd7nrw50fmf6gtyfc5kcnwg9mppz6cpdh4"
+            },
+            {
+                "rpcAddress": "lava.node-runner.top:443",
+                "publicAddress": "lava@1as7z9wm7ru4txqsvzscafm4z5492lekqjkdugj"
+            },
+            {
+                "rpcAddress": "provider.node-ctrl.website:443",
+                "publicAddress": "lava@1wx5aahv50s2zm4mlytshr5kvr6n6snsykfczxj"
+            },
+            {
+                "rpcAddress": "lava.holygate.click:443",
+                "publicAddress": "lava@1cy2wd6ffpxspc7q7qdmehkr0p28qd4rhwjl86y"
+            },
+            {
+                "rpcAddress": "lava-testnet-provider.crouton.digital:443",
+                "publicAddress": "lava@1066rljqtct0y969whtagf9v68a86gwg5jycfyf"
+            },
+            {
+                "rpcAddress": "lava-eu.cryptonode.tools:443",
+                "publicAddress": "lava@1f8kg6htavv67x4e54j6zvlg6pwzcsg52k3wu80"
+            },
+            {
+                "rpcAddress": "lava.lavanetrpc.xyz:443",
+                "publicAddress": "lava@1us59u4u0t5l243hmkvrz5fvthpxu0c20axm4ra"
+            },
+            {
+                "rpcAddress": "provider-lava.f5nodes.com:443",
+                "publicAddress": "lava@163qw77zapfu5zvs0tfkalclajdnz2nvg4fj2w6"
             }
         ],
         "1": [
@@ -116,14 +196,46 @@
                 "publicAddress": "lava@1zghevuyek94dth77a2cjzc0s09puc8tz04hnef"
             },
             {
-                "rpcAddress": "lava-provider-lava.mellifera.network:443",
-                "publicAddress": "lava@1rgs6cp3vleue3vwffrvttjtl4laqhk8fthu466"
+                "rpcAddress": "lava.fednet.ar:443",
+                "publicAddress": "lava@1pdd0nmuj0xfwhfyt7h3wkx9zgjvs3hzle28scu"
+            },
+            {
+                "rpcAddress": "lava.adamvnbnode.xyz:443",
+                "publicAddress": "lava@1mfan7gazv43593pz8esmgy8vahcpf663we6y73"
+            },
+            {
+                "rpcAddress": "lava.wildweststaking.xyz:443",
+                "publicAddress": "lava@1mp6xtg9cn6ec7axduyzyrppz8w7f4ph0jv2tet"
             }
         ],
         "4": [
             {
-                "rpcAddress": "provider-t.lava.nodestake.top:443",
-                "publicAddress": "lava@1etx55kw7tkmnjqz0k0mups4ewxlr324tddz2et"
+                "rpcAddress": "lava.fednet.ar:443",
+                "publicAddress": "lava@1pdd0nmuj0xfwhfyt7h3wkx9zgjvs3hzle28scu"
+            }
+        ],
+        "8": [
+            {
+                "rpcAddress": "lava.fednet.ar:443",
+                "publicAddress": "lava@1pdd0nmuj0xfwhfyt7h3wkx9zgjvs3hzle28scu"
+            }
+        ],
+        "16": [
+            {
+                "rpcAddress": "lava.fednet.ar:443",
+                "publicAddress": "lava@1pdd0nmuj0xfwhfyt7h3wkx9zgjvs3hzle28scu"
+            }
+        ],
+        "32": [
+            {
+                "rpcAddress": "lava.fednet.ar:443",
+                "publicAddress": "lava@1pdd0nmuj0xfwhfyt7h3wkx9zgjvs3hzle28scu"
+            }
+        ],
+        "64": [
+            {
+                "rpcAddress": "lava.fednet.ar:443",
+                "publicAddress": "lava@1pdd0nmuj0xfwhfyt7h3wkx9zgjvs3hzle28scu"
             }
         ]
     }
