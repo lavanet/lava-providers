@@ -9,4 +9,4 @@ geolocation 1 == North America
 geolocation 2 == Europe
 
 
-It’s Lava’s “eating our own dog” on steroids 🙂🌋
+🙂🌋
