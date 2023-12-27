@@ -1,0 +1,44 @@
+name: Daily Automation
+
+on:
+  schedule:
+    - cron: '0 12 * * *'  # Runs every day at midday (UTC)
+
+jobs:
+  automate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'  # Use the desired Python version
+
+      - name: Run Python Script
+        run: |
+          python ./utils/create_sdk_seed_json.py
+
+      - name: Validate Changes
+        run: |
+          # Validation script to check sdkSeedProviders.json
+          # Replace this with your validation logic
+
+          if python ./utils/validation_script.py; then
+            echo "Validation successful"
+          else
+            echo "Validation failed"
+            exit 1  # Exit with a non-zero code to stop the workflow if validation fails
+          fi
+          
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add sdkSeedProviders.json
+          git commit -m "Automated changes"
+          git push origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.AUTOMATION_TOKEN }}
