@@ -3,7 +3,8 @@ name: Daily Automation
 on:
   schedule:
     - cron: '0 12 * * *'  # Runs every day at midday (UTC)
-
+  workflow_dispatch:  # Manual trigger
+  
 jobs:
   automate:
     runs-on: ubuntu-latest
