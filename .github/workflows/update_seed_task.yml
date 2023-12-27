@@ -38,7 +38,12 @@ jobs:
             exit 1  # Exit with a non-zero code to stop the workflow if validation fails
           fi
           
+      - name: Check Git Status
+        id: git_status
+        run: echo ::set-output name=has_changes::$(if [[ -n $(git status -s) ]]; then echo "true"; else echo "false"; fi)  
+    
       - name: Commit and Push Changes
+        if: steps.git_status.outputs.has_changes == 'true'
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
