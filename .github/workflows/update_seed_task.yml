@@ -40,10 +40,15 @@ jobs:
           
       - name: Check Git Status
         id: git_status
-        run: echo ::set-output name=has_changes::$(if [[ -n $(git status -s) ]]; then echo "true"; else echo "false"; fi)  
+        run: |
+            if [[ -n $(git status -s) ]]; then
+              echo "has_changes=true" >> $GITHUB_ENV
+            else
+              echo "has_changes=false" >> $GITHUB_ENV
+            fi
     
       - name: Commit and Push Changes
-        if: steps.git_status.outputs.has_changes == 'true'
+        if: env.has_changes == 'true'
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
