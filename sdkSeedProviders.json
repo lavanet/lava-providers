@@ -86,6 +86,10 @@
                 "publicAddress": "lava@1e8fz22klkvgd6treqml3twvzk8wlle0tq9zn9r"
             },
             {
+                "rpcAddress": "lava-t.va1.lt:443",
+                "publicAddress": "lava@18fgqsc9qfcy5z77zg25l3wdel74wymqwe9hvdp"
+            },
+            {
                 "rpcAddress": "provider.node-ctrl.website:443",
                 "publicAddress": "lava@1wx5aahv50s2zm4mlytshr5kvr6n6snsykfczxj"
             },
@@ -118,8 +122,8 @@
                 "publicAddress": "lava@1jrawgkdvxm8pve7va3vuznmn6u0e7zemzts5q7"
             },
             {
-                "rpcAddress": "<lava.xtrend.site:443>",
-                "publicAddress": "lava@18q848ha50dmx0mwstd7lzrte3u6vpsn2ek73c7"
+                "rpcAddress": "lava.lavanetrpc.xyz:443",
+                "publicAddress": "lava@1us59u4u0t5l243hmkvrz5fvthpxu0c20axm4ra"
             }
         ],
         "1": [
@@ -130,6 +134,10 @@
             {
                 "rpcAddress": "lava.fednet.ar:443",
                 "publicAddress": "lava@1pdd0nmuj0xfwhfyt7h3wkx9zgjvs3hzle28scu"
+            },
+            {
+                "rpcAddress": "lava.adamvnbnode.xyz:443",
+                "publicAddress": "lava@1mfan7gazv43593pz8esmgy8vahcpf663we6y73"
             }
         ],
         "4": [
