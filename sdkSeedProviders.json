@@ -18,6 +18,10 @@
                 "publicAddress": "lava@17u2dgqu2mx9v78xf5lk6fgrxdyhdx2g82zs2kg"
             },
             {
+                "rpcAddress": "lava.megagigaupload.fun:443",
+                "publicAddress": "lava@169y7e47zxul8hzqwf43q4257c6sqdjn29rqnwk"
+            },
+            {
                 "rpcAddress": "lava.vovscorp.xyz:443",
                 "publicAddress": "lava@1sqadwve50tfcdgcm0f6qepukpmx0rghhk4yhmp"
             },
@@ -44,6 +48,10 @@
             {
                 "rpcAddress": "evm3.sbgid.com:443",
                 "publicAddress": "lava@1uhnqhw75xyu4kxj7lqhenlnl8kw62x263tmt8h"
+            },
+            {
+                "rpcAddress": "lava-lava-testnet.bitcat365.com:443",
+                "publicAddress": "lava@1jv9274ary4d87fagglandk0cstel05nktgx762"
             },
             {
                 "rpcAddress": "madi.bwglava.space:443",
@@ -138,6 +146,10 @@
             {
                 "rpcAddress": "lava.elangmas.site:443",
                 "publicAddress": "lava@1zg4tsy4nf4wf2f2e47gqvqmu2gcpqn289vufem"
+            },
+            {
+                "rpcAddress": "lava.kamuscrypto.xyz:443",
+                "publicAddress": "lava@1dk9xsszd632m3tuh5vqqdhhejy3w8sdnjkvkff"
             },
             {
                 "rpcAddress": "lava.adamvnbnode.xyz:443",
