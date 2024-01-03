@@ -98,6 +98,10 @@
                 "publicAddress": "lava@18fgqsc9qfcy5z77zg25l3wdel74wymqwe9hvdp"
             },
             {
+                "rpcAddress": "lava-testnet-provider.w3coins.io:443",
+                "publicAddress": "lava@1qtmhdxwszrdjum6mwfgg7mtzy2yr5rcvhvut9a"
+            },
+            {
                 "rpcAddress": "provider.node-ctrl.website:443",
                 "publicAddress": "lava@1wx5aahv50s2zm4mlytshr5kvr6n6snsykfczxj"
             },
@@ -128,10 +132,6 @@
             {
                 "rpcAddress": "testnet.lava.chaintools.tech:443",
                 "publicAddress": "lava@1jrawgkdvxm8pve7va3vuznmn6u0e7zemzts5q7"
-            },
-            {
-                "rpcAddress": "lava.lavanetrpc.xyz:443",
-                "publicAddress": "lava@1us59u4u0t5l243hmkvrz5fvthpxu0c20axm4ra"
             }
         ],
         "1": [
@@ -160,6 +160,10 @@
             {
                 "rpcAddress": "lava.fednet.ar:443",
                 "publicAddress": "lava@1pdd0nmuj0xfwhfyt7h3wkx9zgjvs3hzle28scu"
+            },
+            {
+                "rpcAddress": "provider-lava-testnet.cryptosailors.tech:4443",
+                "publicAddress": "lava@1pphkhh9g0aqmq6jpksr54w8a8hypr8g4jngx9y"
             }
         ],
         "8": [
