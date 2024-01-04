@@ -26,10 +26,6 @@
                 "publicAddress": "lava@1sqadwve50tfcdgcm0f6qepukpmx0rghhk4yhmp"
             },
             {
-                "rpcAddress": "lava-test.alexz.site:443",
-                "publicAddress": "lava@10h0ly2066gdnlq508ekq42auwt6rmvc0n5xpj4"
-            },
-            {
                 "rpcAddress": "lava-provider.lava.liveraven.net:443",
                 "publicAddress": "lava@1w428yq04a5084efz2ljvnwd2cmdlspee7tq8fl"
             },
@@ -60,14 +56,6 @@
             {
                 "rpcAddress": "lava-provider.anode.team:443",
                 "publicAddress": "lava@136r0tj6uzfq9hlnemng8gzz8qmhddahx9t4azp"
-            },
-            {
-                "rpcAddress": "lava-test-provider.redbooker.xyz:443",
-                "publicAddress": "lava@1ap2rdg8u6ku0m5vesr6kefkgvfz3fg0jg66plt"
-            },
-            {
-                "rpcAddress": "lava-provider14.stakevillage.net:443",
-                "publicAddress": "lava@1tq8ngq6sh3k9wlysmp6hswnlt38hcctaqkwcjm"
             },
             {
                 "rpcAddress": "albinos12.lava.astrader.net:443",
@@ -102,6 +90,18 @@
                 "publicAddress": "lava@1qtmhdxwszrdjum6mwfgg7mtzy2yr5rcvhvut9a"
             },
             {
+                "rpcAddress": "lav1.lava-rpc.01no.de:443",
+                "publicAddress": "lava@1czgrha7ys2698xve2gz4xaccteplrzx8s9fh7e"
+            },
+            {
+                "rpcAddress": "provider-lava.f5nodes.com:443",
+                "publicAddress": "lava@163qw77zapfu5zvs0tfkalclajdnz2nvg4fj2w6"
+            },
+            {
+                "rpcAddress": "lava-provider14.stakevillage.net:443",
+                "publicAddress": "lava@1tq8ngq6sh3k9wlysmp6hswnlt38hcctaqkwcjm"
+            },
+            {
                 "rpcAddress": "provider.node-ctrl.website:443",
                 "publicAddress": "lava@1wx5aahv50s2zm4mlytshr5kvr6n6snsykfczxj"
             },
@@ -128,6 +128,10 @@
             {
                 "rpcAddress": "lava-eu.cryptonode.tools:443",
                 "publicAddress": "lava@1f8kg6htavv67x4e54j6zvlg6pwzcsg52k3wu80"
+            },
+            {
+                "rpcAddress": "lava.nodeaddict.xyz:443",
+                "publicAddress": "lava@12s54fhrgrt823sklphmty5734wv0rp48h5gtqk"
             },
             {
                 "rpcAddress": "testnet.lava.chaintools.tech:443",
