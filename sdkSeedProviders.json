@@ -106,6 +106,10 @@
                 "publicAddress": "lava@1tq8ngq6sh3k9wlysmp6hswnlt38hcctaqkwcjm"
             },
             {
+                "rpcAddress": "provider-lava-testnet.teoviteovi.com:443",
+                "publicAddress": "lava@1p7d580vfu5pvu77kmmhzr9shxmqzyr57ktpue9"
+            },
+            {
                 "rpcAddress": "provider.node-ctrl.website:443",
                 "publicAddress": "lava@1wx5aahv50s2zm4mlytshr5kvr6n6snsykfczxj"
             },
