@@ -106,8 +106,12 @@
                 "publicAddress": "lava@1tq8ngq6sh3k9wlysmp6hswnlt38hcctaqkwcjm"
             },
             {
-                "rpcAddress": "provider-lava-testnet.teoviteovi.com:443",
-                "publicAddress": "lava@1p7d580vfu5pvu77kmmhzr9shxmqzyr57ktpue9"
+                "rpcAddress": "lava.lavanetrpc.xyz:443",
+                "publicAddress": "lava@1us59u4u0t5l243hmkvrz5fvthpxu0c20axm4ra"
+            },
+            {
+                "rpcAddress": "lava-testnet-provider.public.linkpool.io:443",
+                "publicAddress": "lava@1zckdednullsykclxytu4nqqzgr9nsqp3dfx9ft"
             },
             {
                 "rpcAddress": "provider.node-ctrl.website:443",
