@@ -50,6 +50,10 @@
                 "publicAddress": "lava@10h0ly2066gdnlq508ekq42auwt6rmvc0n5xpj4"
             },
             {
+                "rpcAddress": "lava.fednet.ar:443",
+                "publicAddress": "lava@1pdd0nmuj0xfwhfyt7h3wkx9zgjvs3hzle28scu"
+            },
+            {
                 "rpcAddress": "madi.bwglava.space:443",
                 "publicAddress": "lava@10z2xdduvs23hwl6368m37hk7raprz75vacajhf"
             },
@@ -110,8 +114,8 @@
                 "publicAddress": "lava@1zckdednullsykclxytu4nqqzgr9nsqp3dfx9ft"
             },
             {
-                "rpcAddress": "provider-lava-testnet.teoviteovi.com:443",
-                "publicAddress": "lava@1p7d580vfu5pvu77kmmhzr9shxmqzyr57ktpue9"
+                "rpcAddress": "lava-provider.web3validator.info:443",
+                "publicAddress": "lava@1ulsw4sjpv2ycaez7jp34j8m3wjcqzdy5rqndhn"
             },
             {
                 "rpcAddress": "provider.node-ctrl.website:443",
@@ -156,6 +160,10 @@
                 "publicAddress": "lava@1zghevuyek94dth77a2cjzc0s09puc8tz04hnef"
             },
             {
+                "rpcAddress": "lava.fednet.ar:443",
+                "publicAddress": "lava@1pdd0nmuj0xfwhfyt7h3wkx9zgjvs3hzle28scu"
+            },
+            {
                 "rpcAddress": "lava.elangmas.site:443",
                 "publicAddress": "lava@1zg4tsy4nf4wf2f2e47gqvqmu2gcpqn289vufem"
             },
@@ -170,8 +178,36 @@
         ],
         "4": [
             {
+                "rpcAddress": "lava.fednet.ar:443",
+                "publicAddress": "lava@1pdd0nmuj0xfwhfyt7h3wkx9zgjvs3hzle28scu"
+            },
+            {
                 "rpcAddress": "provider-lava-testnet.cryptosailors.tech:4443",
                 "publicAddress": "lava@1pphkhh9g0aqmq6jpksr54w8a8hypr8g4jngx9y"
+            }
+        ],
+        "8": [
+            {
+                "rpcAddress": "lava.fednet.ar:443",
+                "publicAddress": "lava@1pdd0nmuj0xfwhfyt7h3wkx9zgjvs3hzle28scu"
+            }
+        ],
+        "16": [
+            {
+                "rpcAddress": "lava.fednet.ar:443",
+                "publicAddress": "lava@1pdd0nmuj0xfwhfyt7h3wkx9zgjvs3hzle28scu"
+            }
+        ],
+        "32": [
+            {
+                "rpcAddress": "lava.fednet.ar:443",
+                "publicAddress": "lava@1pdd0nmuj0xfwhfyt7h3wkx9zgjvs3hzle28scu"
+            }
+        ],
+        "64": [
+            {
+                "rpcAddress": "lava.fednet.ar:443",
+                "publicAddress": "lava@1pdd0nmuj0xfwhfyt7h3wkx9zgjvs3hzle28scu"
             }
         ]
     }
