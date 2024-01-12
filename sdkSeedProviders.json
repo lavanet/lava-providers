@@ -114,10 +114,6 @@
                 "publicAddress": "lava@1ulsw4sjpv2ycaez7jp34j8m3wjcqzdy5rqndhn"
             },
             {
-                "rpcAddress": "provider.node-ctrl.website:443",
-                "publicAddress": "lava@1wx5aahv50s2zm4mlytshr5kvr6n6snsykfczxj"
-            },
-            {
                 "rpcAddress": "bablovcoin.wb-ozon-promo.ru:443",
                 "publicAddress": "lava@1jd4ggwv0kffz8pdf3t7spt5r4l86pkaar5ym0q"
             },
@@ -148,6 +144,10 @@
             {
                 "rpcAddress": "lava-eu.cryptonode.tools:443",
                 "publicAddress": "lava@1f8kg6htavv67x4e54j6zvlg6pwzcsg52k3wu80"
+            },
+            {
+                "rpcAddress": "provider.node-ctrl.website:443",
+                "publicAddress": "lava@1wx5aahv50s2zm4mlytshr5kvr6n6snsykfczxj"
             }
         ],
         "1": [
