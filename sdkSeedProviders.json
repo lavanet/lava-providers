@@ -2,12 +2,12 @@
     "testnet": {
         "2": [
             {
-                "rpcAddress": "lava-lava.lefey.tech:443",
-                "publicAddress": "lava@1rsuxf0acf4dy5nahd97uazvqgfkfqvq58rd8hd"
+                "rpcAddress": "lava.declab.pro:443",
+                "publicAddress": "lava@1zjutrw8lg8h290nm30jt6wy5veprnusu859zvx"
             },
             {
-                "rpcAddress": "lav1.provider-eu-02.chainlayer.cloud:443",
-                "publicAddress": "lava@13hnttwe0h2hhawjsqnqyggvg96t24nlcw7k6mg"
+                "rpcAddress": "lava-lava.lefey.tech:443",
+                "publicAddress": "lava@1rsuxf0acf4dy5nahd97uazvqgfkfqvq58rd8hd"
             },
             {
                 "rpcAddress": "lava-testnet-provider.utsa.tech:443",
@@ -102,6 +102,10 @@
                 "publicAddress": "lava@18fgqsc9qfcy5z77zg25l3wdel74wymqwe9hvdp"
             },
             {
+                "rpcAddress": "lava-testnet-provider.public.linkpool.io:443",
+                "publicAddress": "lava@1zckdednullsykclxytu4nqqzgr9nsqp3dfx9ft"
+            },
+            {
                 "rpcAddress": "bablovcoin.wb-ozon-promo.ru:443",
                 "publicAddress": "lava@1jd4ggwv0kffz8pdf3t7spt5r4l86pkaar5ym0q"
             },
@@ -132,10 +136,6 @@
             {
                 "rpcAddress": "provider.node-ctrl.website:443",
                 "publicAddress": "lava@1wx5aahv50s2zm4mlytshr5kvr6n6snsykfczxj"
-            },
-            {
-                "rpcAddress": "monika.lava.malinap788.fun:443",
-                "publicAddress": "lava@1tlkpa7t48fjl7qan4ete6xh0lsy679flnqdw57"
             },
             {
                 "rpcAddress": "lava-eu.cryptonode.tools:443",
