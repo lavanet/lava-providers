@@ -22,6 +22,10 @@
                 "publicAddress": "lava@169y7e47zxul8hzqwf43q4257c6sqdjn29rqnwk"
             },
             {
+                "rpcAddress": "lava.vovscorp.xyz:443",
+                "publicAddress": "lava@1sqadwve50tfcdgcm0f6qepukpmx0rghhk4yhmp"
+            },
+            {
                 "rpcAddress": "lav1-lava-provider.theamsolutions.info:443",
                 "publicAddress": "lava@125xzjslh36v5g76cypzslplqm64mhzz03mwnec"
             },
