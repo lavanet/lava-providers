@@ -122,10 +122,6 @@
                 "publicAddress": "lava@1f8pwcdpdvgthtyj3r0ppmpxmjwuwdt3z958csw"
             },
             {
-                "rpcAddress": "lava.rpc.gumat.top:443",
-                "publicAddress": "lava@16g7cdvjl8x63rl33dq978wz2h6ghp2ezmepu7k"
-            },
-            {
                 "rpcAddress": "lava.nodeaddict.xyz:443",
                 "publicAddress": "lava@12s54fhrgrt823sklphmty5734wv0rp48h5gtqk"
             },
@@ -144,6 +140,10 @@
             {
                 "rpcAddress": "lava-eu.cryptonode.tools:443",
                 "publicAddress": "lava@1f8kg6htavv67x4e54j6zvlg6pwzcsg52k3wu80"
+            },
+            {
+                "rpcAddress": "lava.rpc.gumat.top:443",
+                "publicAddress": "lava@16g7cdvjl8x63rl33dq978wz2h6ghp2ezmepu7k"
             }
         ],
         "1": [
