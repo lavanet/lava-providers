@@ -18,6 +18,10 @@
                 "publicAddress": "lava@17u2dgqu2mx9v78xf5lk6fgrxdyhdx2g82zs2kg"
             },
             {
+                "rpcAddress": "lava-provider.stakeup.tech:443",
+                "publicAddress": "lava@18tdn02v8mkarhpqa804vfnnyam7wcxlyvlt28l"
+            },
+            {
                 "rpcAddress": "lava.megagigaupload.fun:443",
                 "publicAddress": "lava@169y7e47zxul8hzqwf43q4257c6sqdjn29rqnwk"
             },
