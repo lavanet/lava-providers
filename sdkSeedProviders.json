@@ -22,8 +22,8 @@
                 "publicAddress": "lava@18tdn02v8mkarhpqa804vfnnyam7wcxlyvlt28l"
             },
             {
-                "rpcAddress": "lava.megagigaupload.fun:443",
-                "publicAddress": "lava@169y7e47zxul8hzqwf43q4257c6sqdjn29rqnwk"
+                "rpcAddress": "lava-lav1-provider.itrocket.net:443",
+                "publicAddress": "lava@1u77axjrkfq6vkxyp42hc0fjh6pqkacu3dx9t3k"
             },
             {
                 "rpcAddress": "lava.vovscorp.xyz:443",
@@ -52,6 +52,10 @@
             {
                 "rpcAddress": "evm-provider.sbgid.com:443",
                 "publicAddress": "lava@1uhnqhw75xyu4kxj7lqhenlnl8kw62x263tmt8h"
+            },
+            {
+                "rpcAddress": "lava-lava-testnet.bitcat365.com:443",
+                "publicAddress": "lava@1jv9274ary4d87fagglandk0cstel05nktgx762"
             },
             {
                 "rpcAddress": "madi.bwglava.space:443",
@@ -158,6 +162,10 @@
             {
                 "rpcAddress": "lava.adamvnbnode.xyz:443",
                 "publicAddress": "lava@1mfan7gazv43593pz8esmgy8vahcpf663we6y73"
+            },
+            {
+                "rpcAddress": "lav1-lava.web3cdn.services:443",
+                "publicAddress": "lava@1vuavgpa0cpufrq60zdggm8rusxann8ys76taf4"
             }
         ],
         "4": [
