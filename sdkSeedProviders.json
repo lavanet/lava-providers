@@ -114,6 +114,10 @@
                 "publicAddress": "lava@1zckdednullsykclxytu4nqqzgr9nsqp3dfx9ft"
             },
             {
+                "rpcAddress": "lava-testnet-provider.w3coins.io:443",
+                "publicAddress": "lava@1qtmhdxwszrdjum6mwfgg7mtzy2yr5rcvhvut9a"
+            },
+            {
                 "rpcAddress": "bablovcoin.wb-ozon-promo.ru:443",
                 "publicAddress": "lava@1jd4ggwv0kffz8pdf3t7spt5r4l86pkaar5ym0q"
             },
