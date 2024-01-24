@@ -26,6 +26,10 @@
                 "publicAddress": "lava@1u77axjrkfq6vkxyp42hc0fjh6pqkacu3dx9t3k"
             },
             {
+                "rpcAddress": "lav1-lavanet.palamar.io:443",
+                "publicAddress": "lava@12hea3e5jk9yu28087udutfnyej5rc7gqkltm02"
+            },
+            {
                 "rpcAddress": "lava.vovscorp.xyz:443",
                 "publicAddress": "lava@1sqadwve50tfcdgcm0f6qepukpmx0rghhk4yhmp"
             },
