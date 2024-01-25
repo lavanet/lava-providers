@@ -10,6 +10,14 @@
                 "publicAddress": "lava@1rsuxf0acf4dy5nahd97uazvqgfkfqvq58rd8hd"
             },
             {
+                "rpcAddress": "provider2-lav1.providers-eu.lavanet.xyz:443",
+                "publicAddress": "lava@1kyhxrg453u6lfc77jwezyxrhy0laeuk69cpk4e"
+            },
+            {
+                "rpcAddress": "provider1-lav1.providers-eu.lavanet.xyz:443",
+                "publicAddress": "lava@1e4vghfjertxq25l2vv56egkfkvdjk90t0c667v"
+            },
+            {
                 "rpcAddress": "lava-testnet-provider.utsa.tech:443",
                 "publicAddress": "lava@1sdxgfqudxj900szcnzrwv7tanarv4fc26hgchq"
             },
@@ -159,6 +167,14 @@
             }
         ],
         "1": [
+            {
+                "rpcAddress": "provider1-lav1.providers-us.lavanet.xyz:443",
+                "publicAddress": "lava@12u7dam8tyedr82ntwe6zz5e34n6vhr3kjlanaf"
+            },
+            {
+                "rpcAddress": "provider2-lav1.providers-us.lavanet.xyz:443",
+                "publicAddress": "lava@1vfpuqq06426z3x4qsn38w6hdqrywqxlc6wmnxp"
+            },
             {
                 "rpcAddress": "lava.stavr.tech:443",
                 "publicAddress": "lava@1zghevuyek94dth77a2cjzc0s09puc8tz04hnef"
