@@ -10,10 +10,6 @@
                 "publicAddress": "lava@1rsuxf0acf4dy5nahd97uazvqgfkfqvq58rd8hd"
             },
             {
-                "rpcAddress": "provider2-lav1.providers-eu.lavanet.xyz:443",
-                "publicAddress": "lava@1kyhxrg453u6lfc77jwezyxrhy0laeuk69cpk4e"
-            },
-            {
                 "rpcAddress": "provider1-lav1.providers-eu.lavanet.xyz:443",
                 "publicAddress": "lava@1e4vghfjertxq25l2vv56egkfkvdjk90t0c667v"
             },
@@ -40,10 +36,6 @@
             {
                 "rpcAddress": "lava.vovscorp.xyz:443",
                 "publicAddress": "lava@1sqadwve50tfcdgcm0f6qepukpmx0rghhk4yhmp"
-            },
-            {
-                "rpcAddress": "lav1-lava-provider.theamsolutions.info:443",
-                "publicAddress": "lava@125xzjslh36v5g76cypzslplqm64mhzz03mwnec"
             },
             {
                 "rpcAddress": "lava-provider.lava.liveraven.net:443",
