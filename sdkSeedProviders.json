@@ -94,10 +94,6 @@
                 "publicAddress": "lava@1czgrha7ys2698xve2gz4xaccteplrzx8s9fh7e"
             },
             {
-                "rpcAddress": "provider-lava.f5nodes.com:443",
-                "publicAddress": "lava@163qw77zapfu5zvs0tfkalclajdnz2nvg4fj2w6"
-            },
-            {
                 "rpcAddress": "lava-provider.web3validator.info:443",
                 "publicAddress": "lava@1ulsw4sjpv2ycaez7jp34j8m3wjcqzdy5rqndhn"
             },
@@ -120,6 +116,10 @@
             {
                 "rpcAddress": "lava-testnet-provider.w3coins.io:443",
                 "publicAddress": "lava@1qtmhdxwszrdjum6mwfgg7mtzy2yr5rcvhvut9a"
+            },
+            {
+                "rpcAddress": "lava.perfnode.tech:443",
+                "publicAddress": "lava@1xzvef53dpyur7d65g7z46t2twdu6h5h7fxnaa4"
             },
             {
                 "rpcAddress": "bablovcoin.wb-ozon-promo.ru:443",
