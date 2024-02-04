@@ -82,10 +82,6 @@
                 "publicAddress": "lava@1czgrha7ys2698xve2gz4xaccteplrzx8s9fh7e"
             },
             {
-                "rpcAddress": "lava-testnet-provider.public.linkpool.io:443",
-                "publicAddress": "lava@1zckdednullsykclxytu4nqqzgr9nsqp3dfx9ft"
-            },
-            {
                 "rpcAddress": "lava-testnet-provider.w3coins.io:443",
                 "publicAddress": "lava@1qtmhdxwszrdjum6mwfgg7mtzy2yr5rcvhvut9a"
             },
@@ -148,10 +144,6 @@
             {
                 "rpcAddress": "provider.sennaf1.fun:443",
                 "publicAddress": "lava@1f8pwcdpdvgthtyj3r0ppmpxmjwuwdt3z958csw"
-            },
-            {
-                "rpcAddress": "lav1-lava.web3cdn.services:443",
-                "publicAddress": "lava@1vuavgpa0cpufrq60zdggm8rusxann8ys76taf4"
             },
             {
                 "rpcAddress": "lava-eu.cryptonode.tools:443",
