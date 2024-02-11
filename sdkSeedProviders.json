@@ -114,8 +114,8 @@
                 "publicAddress": "lava@1je2e97hs5j0dtnt8sqgp4epltc4mrg3zeh6zye"
             },
             {
-                "rpcAddress": "provider-lava.cyberg.digital:443",
-                "publicAddress": "lava@1qkz4alpgj4v3sstjqjg24yrsxmjrhwzryn9ydu"
+                "rpcAddress": "lava-testnet-provider.w3coins.io:443",
+                "publicAddress": "lava@1qtmhdxwszrdjum6mwfgg7mtzy2yr5rcvhvut9a"
             },
             {
                 "rpcAddress": "bablovcoin.wb-ozon-promo.ru:443",
@@ -178,6 +178,10 @@
             {
                 "rpcAddress": "lava.adamvnbnode.xyz:443",
                 "publicAddress": "lava@1mfan7gazv43593pz8esmgy8vahcpf663we6y73"
+            },
+            {
+                "rpcAddress": "alisa.malinap788.fun:443",
+                "publicAddress": "lava@1sv6ngey7zl4lq4qfaftv9qp2e0c5utynmplp00"
             }
         ],
         "4": [
