@@ -22,6 +22,10 @@
                 "publicAddress": "lava@1u77axjrkfq6vkxyp42hc0fjh6pqkacu3dx9t3k"
             },
             {
+                "rpcAddress": "lava-testnet.nodejumper.io:443",
+                "publicAddress": "lava@1umac5epc7fa0yfk3s0gtsq2279gj07shsjghwe"
+            },
+            {
                 "rpcAddress": "lav1-lavanet.palamar.io:443",
                 "publicAddress": "lava@12hea3e5jk9yu28087udutfnyej5rc7gqkltm02"
             },
@@ -32,10 +36,6 @@
             {
                 "rpcAddress": "lav1-lava-provider.theamsolutions.info:443",
                 "publicAddress": "lava@125xzjslh36v5g76cypzslplqm64mhzz03mwnec"
-            },
-            {
-                "rpcAddress": "<lava.xtrend.site:443>",
-                "publicAddress": "lava@18h4j83ffscrxefs9jc2vknktujp78rtk4fs98x"
             },
             {
                 "rpcAddress": "lava-provider.lava.liveraven.net:443",
@@ -58,12 +58,12 @@
                 "publicAddress": "lava@10z2xdduvs23hwl6368m37hk7raprz75vacajhf"
             },
             {
-                "rpcAddress": "albinos12.lava.astrader.net:443",
-                "publicAddress": "lava@1l57uxerrqsclr2y6srzv8e3y5tcrlyjpvaldpp"
+                "rpcAddress": "lava-lava-testnet.bitcat365.com:443",
+                "publicAddress": "lava@1jv9274ary4d87fagglandk0cstel05nktgx762"
             },
             {
-                "rpcAddress": "lava.ksalab.xyz:443",
-                "publicAddress": "lava@1g7xt4prpusv8kutejj5rntg338q7s5uehaplcs"
+                "rpcAddress": "albinos12.lava.astrader.net:443",
+                "publicAddress": "lava@1l57uxerrqsclr2y6srzv8e3y5tcrlyjpvaldpp"
             },
             {
                 "rpcAddress": "provider.babyscope.nl:443",
@@ -182,6 +182,10 @@
             {
                 "rpcAddress": "lava.wildweststaking.xyz:443",
                 "publicAddress": "lava@1mp6xtg9cn6ec7axduyzyrppz8w7f4ph0jv2tet"
+            },
+            {
+                "rpcAddress": "38.45.71.83:2220",
+                "publicAddress": "lava@1t55achcdqeh8ewz5z3g260nkrxz8q5v8655aul"
             }
         ],
         "4": [
