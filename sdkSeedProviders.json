@@ -204,6 +204,14 @@
             {
                 "rpcAddress": "lava.crazyfrog.sbs",
                 "publicAddress": "lava@1urxpzfv2llsm70erpfh8v3mjcksxujhghamzz4"
+            },
+            {
+                "rpcAddress": "lava.zlkcyber.tech:443",
+                "publicAddress": "lava@189z0ldmamfcz4m68us5aak3d4pt0srtv36zsju"
+            },
+            {
+                "rpcAddress": "lava.xtrend.site:443",
+                "publicAddress": "lava@18h4j83ffscrxefs9jc2vknktujp78rtk4fs98x"
             }
         ],
         "1": [
@@ -226,6 +234,14 @@
             {
                 "rpcAddress": "lava.z4ch.xyz:443",
                 "publicAddress": "lava@18pq8e8h7mmkegcns8dqhrp7fwz0fvc58j49fgc"
+            },
+            {
+                "rpcAddress": "lava.wildweststaking.xyz:443",
+                "publicAddress": "lava@1mp6xtg9cn6ec7axduyzyrppz8w7f4ph0jv2tet"
+            },
+            {
+                "rpcAddress": "lava.donkamote.xyz:443",
+                "publicAddress": "lava@1w39wm9tp6nsy7tsxlkfwy98f7p6wsq54vx4f23"
             }
         ],
         "32": [
