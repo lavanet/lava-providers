@@ -200,10 +200,6 @@
                 "publicAddress": "lava@1t55achcdqeh8ewz5z3g260nkrxz8q5v8655aul"
             },
             {
-                "rpcAddress": "lava.z4ch.xyz:443",
-                "publicAddress": "lava@18pq8e8h7mmkegcns8dqhrp7fwz0fvc58j49fgc"
-            },
-            {
                 "rpcAddress": "lava.wildweststaking.xyz:443",
                 "publicAddress": "lava@1mp6xtg9cn6ec7axduyzyrppz8w7f4ph0jv2tet"
             },
@@ -218,20 +214,12 @@
             {
                 "rpcAddress": "lava.adamvnbnode.xyz:443",
                 "publicAddress": "lava@1mfan7gazv43593pz8esmgy8vahcpf663we6y73"
-            },
-            {
-                "rpcAddress": "lava.redraizen.xyz:443",
-                "publicAddress": "lava@1kqeh3mezkzdp5eenq89n8h25u704npks3f4egg"
             }
         ],
         "32": [
             {
                 "rpcAddress": "provider-lava.teoviteovi.com:443",
                 "publicAddress": "lava@1p7d580vfu5pvu77kmmhzr9shxmqzyr57ktpue9"
-            },
-            {
-                "rpcAddress": "lava.minebuu.xyz:443",
-                "publicAddress": "lava@1hf37q65yfp6x56kxay4zzehvw3ujjfk3k4pj8m"
             }
         ],
         "4": [
