@@ -86,10 +86,6 @@
                 "publicAddress": "lava@1xzvef53dpyur7d65g7z46t2twdu6h5h7fxnaa4"
             },
             {
-                "rpcAddress": "lava.5n0wproj.xyz:443",
-                "publicAddress": "lava@1nghrcauwe0vsuug9htdjxkvvqwrwsq0cxhshy4"
-            },
-            {
                 "rpcAddress": "lav-rpc.siriusnodes.uk:443",
                 "publicAddress": "lava@1xnexyvyuq9d02whqjy8y2jj4ytxrclvy8nxu5c"
             },
@@ -142,14 +138,6 @@
                 "publicAddress": "lava@1ewft09x49rgezsk7hpw23gx2r9dw8gkaaj2l33"
             },
             {
-                "rpcAddress": "lava.deepshop.info:443",
-                "publicAddress": "lava@1xphjt6avrxqpj2gyjzqdfxkkkfjakvm6c2sv8r"
-            },
-            {
-                "rpcAddress": "lav.5elementsnodes.com:443",
-                "publicAddress": "lava@1e8fz22klkvgd6treqml3twvzk8wlle0tq9zn9r"
-            },
-            {
                 "rpcAddress": "lava-testnet-provider.stake-town.com:443",
                 "publicAddress": "lava@1y0ptxml00gxca086ghe9zcl906cu7ljgvk5m28"
             },
@@ -180,6 +168,14 @@
             {
                 "rpcAddress": "lava.z4ch.xyz:443",
                 "publicAddress": "lava@1n5es74n34mj70empl4j38kffghpjvna7gpte0g"
+            },
+            {
+                "rpcAddress": "lava.5n0wproj.xyz:443",
+                "publicAddress": "lava@1nghrcauwe0vsuug9htdjxkvvqwrwsq0cxhshy4"
+            },
+            {
+                "rpcAddress": "lav.5elementsnodes.com:443",
+                "publicAddress": "lava@1e8fz22klkvgd6treqml3twvzk8wlle0tq9zn9r"
             }
         ],
         "1": [
@@ -222,10 +218,6 @@
             {
                 "rpcAddress": "provider-lava-testnet.cryptosailors.tech:4443",
                 "publicAddress": "lava@1pphkhh9g0aqmq6jpksr54w8a8hypr8g4jngx9y"
-            },
-            {
-                "rpcAddress": "lava-testnet.meownode.io:443",
-                "publicAddress": "lava@1zw439tfrqac05z89w863mf95xj7jvfc8r2hrlj"
             }
         ]
     }
