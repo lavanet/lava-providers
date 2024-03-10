@@ -10,10 +10,6 @@
                 "publicAddress": "lava@1kyhxrg453u6lfc77jwezyxrhy0laeuk69cpk4e"
             },
             {
-                "rpcAddress": "provider1-lav1.providers-eu.lavanet.xyz:443",
-                "publicAddress": "lava@1e4vghfjertxq25l2vv56egkfkvdjk90t0c667v"
-            },
-            {
                 "rpcAddress": "lava-provider.stakeup.tech:443",
                 "publicAddress": "lava@18tdn02v8mkarhpqa804vfnnyam7wcxlyvlt28l"
             },
@@ -136,10 +132,6 @@
             {
                 "rpcAddress": "lavat-rpc.vld-pos.uk:443",
                 "publicAddress": "lava@1ewft09x49rgezsk7hpw23gx2r9dw8gkaaj2l33"
-            },
-            {
-                "rpcAddress": "lava-testnet-provider.stake-town.com:443",
-                "publicAddress": "lava@1y0ptxml00gxca086ghe9zcl906cu7ljgvk5m28"
             },
             {
                 "rpcAddress": "lava.rysiman.top:443",
