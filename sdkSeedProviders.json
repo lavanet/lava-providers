@@ -74,10 +74,6 @@
                 "publicAddress": "lava@1fy86wc3muclz2lut4yvfqvr26007gyc8k8y5wn"
             },
             {
-                "rpcAddress": "lava.perfnode.tech:443",
-                "publicAddress": "lava@1xzvef53dpyur7d65g7z46t2twdu6h5h7fxnaa4"
-            },
-            {
                 "rpcAddress": "lav-rpc.siriusnodes.uk:443",
                 "publicAddress": "lava@1xnexyvyuq9d02whqjy8y2jj4ytxrclvy8nxu5c"
             },
@@ -164,6 +160,10 @@
             {
                 "rpcAddress": "testnet.lava.chaintools.tech:443",
                 "publicAddress": "lava@1jrawgkdvxm8pve7va3vuznmn6u0e7zemzts5q7"
+            },
+            {
+                "rpcAddress": "lava.xtrend.site:443",
+                "publicAddress": "lava@18h4j83ffscrxefs9jc2vknktujp78rtk4fs98x"
             }
         ],
         "1": [
