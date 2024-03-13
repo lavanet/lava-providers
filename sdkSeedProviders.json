@@ -164,6 +164,14 @@
             {
                 "rpcAddress": "lava.xtrend.site:443",
                 "publicAddress": "lava@18h4j83ffscrxefs9jc2vknktujp78rtk4fs98x"
+            },
+            {
+                "rpcAddress": "lava.babyscope.nl:443",
+                "publicAddress": "lava@18rtt3ka0jc85qvvcnct0t7ayq6fva7692k9kvh"
+            },
+            {
+                "rpcAddress": "lava.perfnode.tech:443",
+                "publicAddress": "lava@1xzvef53dpyur7d65g7z46t2twdu6h5h7fxnaa4"
             }
         ],
         "1": [
@@ -174,10 +182,6 @@
             {
                 "rpcAddress": "provider1-lav1.providers-us.lavanet.xyz:443",
                 "publicAddress": "lava@12u7dam8tyedr82ntwe6zz5e34n6vhr3kjlanaf"
-            },
-            {
-                "rpcAddress": "lava.skuuynodes.site:443",
-                "publicAddress": "lava@1t55achcdqeh8ewz5z3g260nkrxz8q5v8655aul"
             },
             {
                 "rpcAddress": "lava.wildweststaking.xyz:443",
