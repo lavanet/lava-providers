@@ -6,7 +6,7 @@ success = False
 jsonLoad = {}
 for i in range(10): 
     try:
-        result = subprocess.check_output(f"curl https://lav1.rest.lava.build:443/rest/lavanet/lava/pairing/providers/LAV1",shell=True)
+        result = subprocess.check_output(f"curl https://lav1.rest.lava.build:443/lavanet/lava/pairing/providers/LAV1",shell=True)
         jsonFinal = {"testnet": {}}
         jsonLoad = json.loads(result)
         if "stakeEntry" not in jsonLoad:
