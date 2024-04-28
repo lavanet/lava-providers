@@ -1,9 +1,26 @@
 import subprocess
 import yaml
 import json
-result = subprocess.check_output(f"curl https://lav1.rest.lava.build:443/lavanet/lava/pairing/providers/LAV1",shell=True)
-jsonFinal = {"testnet": {}}
-jsonLoad = json.loads(result)
+
+success = False
+jsonLoad = {}
+for i in range(10): 
+    try:
+        result = subprocess.check_output(f"curl https://lav1.rest.lava.build:443/rest/lavanet/lava/pairing/providers/LAV1",shell=True)
+        jsonFinal = {"testnet": {}}
+        jsonLoad = json.loads(result)
+        if "stakeEntry" not in jsonLoad:
+            print(f"Failed fetch attempt, {i} jsonLoad", jsonLoad)
+            continue
+        success = True
+        break
+    except: 
+        print("Failed", i)
+
+if not success:
+    print("Failed sdk_seed_json")
+    exit(-2)
+
 for k in jsonLoad["stakeEntry"]:
     address = k['address']
     stake = int(k['stake']['amount'])
