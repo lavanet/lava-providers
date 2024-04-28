@@ -1,7 +1,7 @@
 import subprocess
 import yaml
 import json
-result = subprocess.check_output(f"curl https://public-rpc-testnet2.lavanet.xyz:443/rest/lavanet/lava/pairing/providers/LAV1",shell=True)
+result = subprocess.check_output(f"curl https://lav1.rest.lava.build:443/lavanet/lava/pairing/providers/LAV1",shell=True)
 jsonFinal = {"testnet": {}}
 jsonLoad = json.loads(result)
 for k in jsonLoad["stakeEntry"]:
