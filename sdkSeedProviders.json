@@ -2,6 +2,10 @@
     "testnet": {
         "2": [
             {
+                "rpcAddress": "lav1-lava-2.lavanet.xyz:443",
+                "publicAddress": "lava@16v2dahsks83a8yudf6zcw3yxpxvf86u4f574hq"
+            },
+            {
                 "rpcAddress": "lava-provider.takeshi.team:443",
                 "publicAddress": "lava@17u2dgqu2mx9v78xf5lk6fgrxdyhdx2g82zs2kg"
             },
@@ -70,10 +74,6 @@
                 "publicAddress": "lava@1fy86wc3muclz2lut4yvfqvr26007gyc8k8y5wn"
             },
             {
-                "rpcAddress": "lava-prov.ksalab.xyz:443",
-                "publicAddress": "lava@1g7xt4prpusv8kutejj5rntg338q7s5uehaplcs"
-            },
-            {
                 "rpcAddress": "lava.mrsml.fun:443",
                 "publicAddress": "lava@1j6xsjzvccykc08sz2xe4l2j4a3er64qf8dc9jw"
             },
@@ -100,6 +100,10 @@
             {
                 "rpcAddress": "lava.lavanetrpc.xyz:443",
                 "publicAddress": "lava@1us59u4u0t5l243hmkvrz5fvthpxu0c20axm4ra"
+            },
+            {
+                "rpcAddress": "lava.perfnode.tech:443",
+                "publicAddress": "lava@1xzvef53dpyur7d65g7z46t2twdu6h5h7fxnaa4"
             },
             {
                 "rpcAddress": "lava-testnet-provider.stake-town.com:443",
