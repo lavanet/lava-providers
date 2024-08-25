@@ -94,6 +94,10 @@
                 "publicAddress": "lava@1p7d580vfu5pvu77kmmhzr9shxmqzyr57ktpue9"
             },
             {
+                "rpcAddress": "lava-testnet-provider.w3coins.io:443",
+                "publicAddress": "lava@1qtmhdxwszrdjum6mwfgg7mtzy2yr5rcvhvut9a"
+            },
+            {
                 "rpcAddress": "lava.noders.services:443",
                 "publicAddress": "lava@1tkhehvca5uur6svd2l83lp704mlhc7xu9rcdqz"
             },
