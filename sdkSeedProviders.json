@@ -30,10 +30,6 @@
                 "publicAddress": "lava@12yevt5a2cdk70vyhxquw0gws0zquam80f66sae"
             },
             {
-                "rpcAddress": "impulse.lava.eu.impulse.expert:443",
-                "publicAddress": "lava@1q7jyftyahuf66jefc36254rldk6je9xkf5t79z"
-            },
-            {
                 "rpcAddress": "lava-provider.lava.liveraven.net:443",
                 "publicAddress": "lava@1w428yq04a5084efz2ljvnwd2cmdlspee7tq8fl"
             },
@@ -44,6 +40,10 @@
             {
                 "rpcAddress": "lava-testnet-provider.crouton.digital:443",
                 "publicAddress": "lava@1066rljqtct0y969whtagf9v68a86gwg5jycfyf"
+            },
+            {
+                "rpcAddress": "lava-testnet.provider.fryer.testnet.chainlayer.cloud:443",
+                "publicAddress": "lava@13hnttwe0h2hhawjsqnqyggvg96t24nlcw7k6mg"
             },
             {
                 "rpcAddress": "lava.rpc.gumat.top:443",
@@ -116,17 +116,39 @@
         ],
         "1": [
             {
+                "rpcAddress": "lava-testnet.provider.spud.testnet.chainlayer.cloud:443",
+                "publicAddress": "lava@13hnttwe0h2hhawjsqnqyggvg96t24nlcw7k6mg"
+            },
+            {
+                "rpcAddress": "lava.liquidyum.ca:443",
+                "publicAddress": "lava@1fpprhv40h9z058ez0hxdattjvg0fjsrhkqc7cu"
+            },
+            {
                 "rpcAddress": "lava.panxinyang.top:443",
                 "publicAddress": "lava@13fs6xn0qhhzrxxlkqtvc3zxs5wefeza2rkrvff"
             }
         ],
         "32": [
             {
+                "rpcAddress": "lava-testnet.provider.fryer.testnet.chainlayer.cloud:443",
+                "publicAddress": "lava@13hnttwe0h2hhawjsqnqyggvg96t24nlcw7k6mg"
+            },
+            {
                 "rpcAddress": "provider-lava-as-sg1.teoviteovi.com:443",
                 "publicAddress": "lava@1p7d580vfu5pvu77kmmhzr9shxmqzyr57ktpue9"
             }
         ],
+        "8": [
+            {
+                "rpcAddress": "lava-testnet.provider.spud.testnet.chainlayer.cloud:443",
+                "publicAddress": "lava@13hnttwe0h2hhawjsqnqyggvg96t24nlcw7k6mg"
+            }
+        ],
         "4": [
+            {
+                "rpcAddress": "lava-testnet.provider.spud.testnet.chainlayer.cloud:443",
+                "publicAddress": "lava@13hnttwe0h2hhawjsqnqyggvg96t24nlcw7k6mg"
+            },
             {
                 "rpcAddress": "lava-testnet.meownode.io:443",
                 "publicAddress": "lava@1zw439tfrqac05z89w863mf95xj7jvfc8r2hrlj"
