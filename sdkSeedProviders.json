@@ -26,6 +26,10 @@
                 "publicAddress": "lava@12yevt5a2cdk70vyhxquw0gws0zquam80f66sae"
             },
             {
+                "rpcAddress": "impulse.lava.eu.impulse.expert:443",
+                "publicAddress": "lava@1q7jyftyahuf66jefc36254rldk6je9xkf5t79z"
+            },
+            {
                 "rpcAddress": "lava-provider.lava.liveraven.net:443",
                 "publicAddress": "lava@1w428yq04a5084efz2ljvnwd2cmdlspee7tq8fl"
             },
@@ -52,10 +56,6 @@
             {
                 "rpcAddress": "lav1.lava-rpc.01no.de:443",
                 "publicAddress": "lava@1czgrha7ys2698xve2gz4xaccteplrzx8s9fh7e"
-            },
-            {
-                "rpcAddress": "lav.5elementsnodes.com:443",
-                "publicAddress": "lava@1e8fz22klkvgd6treqml3twvzk8wlle0tq9zn9r"
             },
             {
                 "rpcAddress": "lava-eu.cryptonode.tools:443",
@@ -128,6 +128,10 @@
             {
                 "rpcAddress": "lava-testnet.provider.fryer.testnet.chainlayer.cloud:443",
                 "publicAddress": "lava@13hnttwe0h2hhawjsqnqyggvg96t24nlcw7k6mg"
+            },
+            {
+                "rpcAddress": "provider-lava-as-sg1.teoviteovi.com:443",
+                "publicAddress": "lava@1p7d580vfu5pvu77kmmhzr9shxmqzyr57ktpue9"
             }
         ],
         "8": [
