@@ -42,6 +42,10 @@
                 "publicAddress": "lava@1066rljqtct0y969whtagf9v68a86gwg5jycfyf"
             },
             {
+                "rpcAddress": "lava.rpc.gumat.top:443",
+                "publicAddress": "lava@16g7cdvjl8x63rl33dq978wz2h6ghp2ezmepu7k"
+            },
+            {
                 "rpcAddress": "lava.babyscope.nl:443",
                 "publicAddress": "lava@18rtt3ka0jc85qvvcnct0t7ayq6fva7692k9kvh"
             },
@@ -52,6 +56,10 @@
             {
                 "rpcAddress": "lav.5elementsnodes.com:443",
                 "publicAddress": "lava@1e8fz22klkvgd6treqml3twvzk8wlle0tq9zn9r"
+            },
+            {
+                "rpcAddress": "lavat-rpc.vld-pos.uk:443",
+                "publicAddress": "lava@1ewft09x49rgezsk7hpw23gx2r9dw8gkaaj2l33"
             },
             {
                 "rpcAddress": "lava-eu.cryptonode.tools:443",
@@ -110,6 +118,12 @@
             {
                 "rpcAddress": "lava.liquidyum.ca:443",
                 "publicAddress": "lava@1fpprhv40h9z058ez0hxdattjvg0fjsrhkqc7cu"
+            }
+        ],
+        "8": [
+            {
+                "rpcAddress": "lav1.provider.dteam.tech:443",
+                "publicAddress": "lava@1gpl2h7wwnwmzcxmlmg95rn2pr2m6epddg0ede4"
             }
         ],
         "4": [
