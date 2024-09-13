@@ -22,6 +22,10 @@
                 "publicAddress": "lava@125xzjslh36v5g76cypzslplqm64mhzz03mwnec"
             },
             {
+                "rpcAddress": "lava-testnet.provider.alexz.site:443",
+                "publicAddress": "lava@10h0ly2066gdnlq508ekq42auwt6rmvc0n5xpj4"
+            },
+            {
                 "rpcAddress": "provider.lava-testnet-2.lava.aviaone.com:443",
                 "publicAddress": "lava@12yevt5a2cdk70vyhxquw0gws0zquam80f66sae"
             },
@@ -64,6 +68,10 @@
             {
                 "rpcAddress": "lava-eu.cryptonode.tools:443",
                 "publicAddress": "lava@1f8kg6htavv67x4e54j6zvlg6pwzcsg52k3wu80"
+            },
+            {
+                "rpcAddress": "newprovider.sennaf1.fun:443",
+                "publicAddress": "lava@1f8pwcdpdvgthtyj3r0ppmpxmjwuwdt3z958csw"
             },
             {
                 "rpcAddress": "lav1.lava.astrader.net:443",
