@@ -58,10 +58,6 @@
                 "publicAddress": "lava@1czgrha7ys2698xve2gz4xaccteplrzx8s9fh7e"
             },
             {
-                "rpcAddress": "lav.5elementsnodes.com:443",
-                "publicAddress": "lava@1e8fz22klkvgd6treqml3twvzk8wlle0tq9zn9r"
-            },
-            {
                 "rpcAddress": "lavat-rpc.vld-pos.uk:443",
                 "publicAddress": "lava@1ewft09x49rgezsk7hpw23gx2r9dw8gkaaj2l33"
             },
@@ -146,6 +142,10 @@
             {
                 "rpcAddress": "rpc-lava.provalidator.com:443",
                 "publicAddress": "lava@1zenl8tfpyyd7qvqs04mch05x4fvykmpy7d49nk"
+            },
+            {
+                "rpcAddress": "us.lava.lava.web3cdn.services:443",
+                "publicAddress": "lava@1vuavgpa0cpufrq60zdggm8rusxann8ys76taf4"
             }
         ]
     }
