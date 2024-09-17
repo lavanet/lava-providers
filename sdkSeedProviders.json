@@ -2,6 +2,10 @@
     "testnet": {
         "2": [
             {
+                "rpcAddress": "provider-lava-as-sg1.teoviteovi.com:443",
+                "publicAddress": "lava@1p7d580vfu5pvu77kmmhzr9shxmqzyr57ktpue9"
+            },
+            {
                 "rpcAddress": "lav1-lava-2.lavanet.xyz:443",
                 "publicAddress": "lava@16v2dahsks83a8yudf6zcw3yxpxvf86u4f574hq"
             },
