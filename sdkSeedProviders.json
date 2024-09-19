@@ -38,10 +38,6 @@
                 "publicAddress": "lava@1w428yq04a5084efz2ljvnwd2cmdlspee7tq8fl"
             },
             {
-                "rpcAddress": "madinew.bwglava.space:443",
-                "publicAddress": "lava@10z2xdduvs23hwl6368m37hk7raprz75vacajhf"
-            },
-            {
                 "rpcAddress": "lava-testnet-provider.crouton.digital:443",
                 "publicAddress": "lava@1066rljqtct0y969whtagf9v68a86gwg5jycfyf"
             },
@@ -54,12 +50,12 @@
                 "publicAddress": "lava@1czgrha7ys2698xve2gz4xaccteplrzx8s9fh7e"
             },
             {
-                "rpcAddress": "lavat-rpc.vld-pos.uk:443",
-                "publicAddress": "lava@1ewft09x49rgezsk7hpw23gx2r9dw8gkaaj2l33"
+                "rpcAddress": "lav.5elementsnodes.com:443",
+                "publicAddress": "lava@1e8fz22klkvgd6treqml3twvzk8wlle0tq9zn9r"
             },
             {
-                "rpcAddress": "lava-eu.cryptonode.tools:443",
-                "publicAddress": "lava@1f8kg6htavv67x4e54j6zvlg6pwzcsg52k3wu80"
+                "rpcAddress": "lavat-rpc.vld-pos.uk:443",
+                "publicAddress": "lava@1ewft09x49rgezsk7hpw23gx2r9dw8gkaaj2l33"
             },
             {
                 "rpcAddress": "newprovider.sennaf1.fun:443",
@@ -68,10 +64,6 @@
             {
                 "rpcAddress": "lav1.lava.astrader.net:443",
                 "publicAddress": "lava@1fe56h78d59e5e6qyeq8ak0svyej44s77dnmqwn"
-            },
-            {
-                "rpcAddress": "pondrja.bwglava.space:443",
-                "publicAddress": "lava@1fy86wc3muclz2lut4yvfqvr26007gyc8k8y5wn"
             },
             {
                 "rpcAddress": "lava-prov.ksalab.xyz:443",
@@ -86,7 +78,7 @@
                 "publicAddress": "lava@1jd4ggwv0kffz8pdf3t7spt5r4l86pkaar5ym0q"
             },
             {
-                "rpcAddress": "providertest.herewego.space:443",
+                "rpcAddress": "provider-test.bwglava.space:443",
                 "publicAddress": "lava@1jeueja62954qjywk5cn77u3599afr62f90na7e"
             },
             {
@@ -124,6 +116,12 @@
             {
                 "rpcAddress": "lav1.provider.dteam.tech:443",
                 "publicAddress": "lava@1gpl2h7wwnwmzcxmlmg95rn2pr2m6epddg0ede4"
+            }
+        ],
+        "32": [
+            {
+                "rpcAddress": "provider-lava-as-sg1.teoviteovi.com:443",
+                "publicAddress": "lava@1p7d580vfu5pvu77kmmhzr9shxmqzyr57ktpue9"
             }
         ],
         "4": [
