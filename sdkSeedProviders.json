@@ -38,6 +38,10 @@
                 "publicAddress": "lava@1w428yq04a5084efz2ljvnwd2cmdlspee7tq8fl"
             },
             {
+                "rpcAddress": "madi-testnew.bwglava.space:443",
+                "publicAddress": "lava@10z2xdduvs23hwl6368m37hk7raprz75vacajhf"
+            },
+            {
                 "rpcAddress": "lava-testnet-provider.crouton.digital:443",
                 "publicAddress": "lava@1066rljqtct0y969whtagf9v68a86gwg5jycfyf"
             },
@@ -64,6 +68,10 @@
             {
                 "rpcAddress": "lav1.lava.astrader.net:443",
                 "publicAddress": "lava@1fe56h78d59e5e6qyeq8ak0svyej44s77dnmqwn"
+            },
+            {
+                "rpcAddress": "pondrja-new.moneygo-naan.space:443",
+                "publicAddress": "lava@1fy86wc3muclz2lut4yvfqvr26007gyc8k8y5wn"
             },
             {
                 "rpcAddress": "lava-prov.ksalab.xyz:443",
