@@ -126,12 +126,6 @@
                 "publicAddress": "lava@1gpl2h7wwnwmzcxmlmg95rn2pr2m6epddg0ede4"
             }
         ],
-        "32": [
-            {
-                "rpcAddress": "provider-lava-as-sg1.teoviteovi.com:443",
-                "publicAddress": "lava@1p7d580vfu5pvu77kmmhzr9shxmqzyr57ktpue9"
-            }
-        ],
         "4": [
             {
                 "rpcAddress": "provider-lava-testnet.cryptosailors.tech:4443",
