@@ -98,6 +98,10 @@
                 "publicAddress": "lava@1qtmhdxwszrdjum6mwfgg7mtzy2yr5rcvhvut9a"
             },
             {
+                "rpcAddress": "lava-provider-lava-testnet.mellifera.network:443",
+                "publicAddress": "lava@1rgs6cp3vleue3vwffrvttjtl4laqhk8fthu466"
+            },
+            {
                 "rpcAddress": "provider.sgtstake.com:443",
                 "publicAddress": "lava@1uhwudw7vzqtnffu2hf5yhv4n8trj79ezl66z99"
             },
