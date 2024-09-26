@@ -62,6 +62,10 @@
                 "publicAddress": "lava@1ewft09x49rgezsk7hpw23gx2r9dw8gkaaj2l33"
             },
             {
+                "rpcAddress": "lava-eu.cryptonode.tools:443",
+                "publicAddress": "lava@1f8kg6htavv67x4e54j6zvlg6pwzcsg52k3wu80"
+            },
+            {
                 "rpcAddress": "newprovider.sennaf1.fun:443",
                 "publicAddress": "lava@1f8pwcdpdvgthtyj3r0ppmpxmjwuwdt3z958csw"
             },
@@ -90,20 +94,12 @@
                 "publicAddress": "lava@1jeueja62954qjywk5cn77u3599afr62f90na7e"
             },
             {
-                "rpcAddress": "iryna.lava.stakevillage.net:443",
-                "publicAddress": "lava@1m5p9cc4lp6jxdsk3pdf56tek2muzu3sm4rhp5f"
-            },
-            {
                 "rpcAddress": "lava-testnet-provider.w3coins.io:443",
                 "publicAddress": "lava@1qtmhdxwszrdjum6mwfgg7mtzy2yr5rcvhvut9a"
             },
             {
                 "rpcAddress": "lava-provider-lava-testnet.mellifera.network:443",
                 "publicAddress": "lava@1rgs6cp3vleue3vwffrvttjtl4laqhk8fthu466"
-            },
-            {
-                "rpcAddress": "provider.sgtstake.com:443",
-                "publicAddress": "lava@1uhwudw7vzqtnffu2hf5yhv4n8trj79ezl66z99"
             },
             {
                 "rpcAddress": "lava.lavanetrpc.xyz:443",
@@ -128,6 +124,12 @@
             {
                 "rpcAddress": "lav1.provider.dteam.tech:443",
                 "publicAddress": "lava@1gpl2h7wwnwmzcxmlmg95rn2pr2m6epddg0ede4"
+            }
+        ],
+        "32": [
+            {
+                "rpcAddress": "provider-lava-as-sg1.teoviteovi.com:443",
+                "publicAddress": "lava@1p7d580vfu5pvu77kmmhzr9shxmqzyr57ktpue9"
             }
         ],
         "4": [
