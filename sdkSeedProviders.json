@@ -112,6 +112,10 @@
             {
                 "rpcAddress": "lav-rpc.siriusnodes.uk:443",
                 "publicAddress": "lava@1xnexyvyuq9d02whqjy8y2jj4ytxrclvy8nxu5c"
+            },
+            {
+                "rpcAddress": "lava-testnet-provider.stake-town.com:443",
+                "publicAddress": "lava@1y0ptxml00gxca086ghe9zcl906cu7ljgvk5m28"
             }
         ],
         "1": [
