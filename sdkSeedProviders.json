@@ -10,10 +10,6 @@
                 "publicAddress": "lava@16v2dahsks83a8yudf6zcw3yxpxvf86u4f574hq"
             },
             {
-                "rpcAddress": "lava-provider.takeshi.team:443",
-                "publicAddress": "lava@17u2dgqu2mx9v78xf5lk6fgrxdyhdx2g82zs2kg"
-            },
-            {
                 "rpcAddress": "lava-testnet-provider.utsa.tech:443",
                 "publicAddress": "lava@1sdxgfqudxj900szcnzrwv7tanarv4fc26hgchq"
             },
@@ -28,10 +24,6 @@
             {
                 "rpcAddress": "lava-testnet.provider.alexz.site:443",
                 "publicAddress": "lava@10h0ly2066gdnlq508ekq42auwt6rmvc0n5xpj4"
-            },
-            {
-                "rpcAddress": "provider.lava-testnet-2.lava.aviaone.com:443",
-                "publicAddress": "lava@12yevt5a2cdk70vyhxquw0gws0zquam80f66sae"
             },
             {
                 "rpcAddress": "impulse.lava.eu.impulse.expert:443",
@@ -64,10 +56,6 @@
             {
                 "rpcAddress": "lavat-rpc.vld-pos.uk:443",
                 "publicAddress": "lava@1ewft09x49rgezsk7hpw23gx2r9dw8gkaaj2l33"
-            },
-            {
-                "rpcAddress": "lava-eu.cryptonode.tools:443",
-                "publicAddress": "lava@1f8kg6htavv67x4e54j6zvlg6pwzcsg52k3wu80"
             },
             {
                 "rpcAddress": "lav1.lava.astrader.net:443",
