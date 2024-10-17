@@ -50,10 +50,6 @@
                 "publicAddress": "lava@1f8kg6htavv67x4e54j6zvlg6pwzcsg52k3wu80"
             },
             {
-                "rpcAddress": "lav1.lava.astrader.net:443",
-                "publicAddress": "lava@1fe56h78d59e5e6qyeq8ak0svyej44s77dnmqwn"
-            },
-            {
                 "rpcAddress": "pondrja-new.moneygo-naan.space:443",
                 "publicAddress": "lava@1fy86wc3muclz2lut4yvfqvr26007gyc8k8y5wn"
             },
@@ -72,10 +68,6 @@
             {
                 "rpcAddress": "provider-test.bwglava.space:443",
                 "publicAddress": "lava@1jeueja62954qjywk5cn77u3599afr62f90na7e"
-            },
-            {
-                "rpcAddress": "iryna.lava.stakevillage.net:443",
-                "publicAddress": "lava@1m5p9cc4lp6jxdsk3pdf56tek2muzu3sm4rhp5f"
             },
             {
                 "rpcAddress": "lava-testnet-provider.w3coins.io:443",
