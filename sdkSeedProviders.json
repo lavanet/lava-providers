@@ -18,6 +18,10 @@
                 "publicAddress": "lava@125xzjslh36v5g76cypzslplqm64mhzz03mwnec"
             },
             {
+                "rpcAddress": "lava-testnet.provider.alexz.site:443",
+                "publicAddress": "lava@10h0ly2066gdnlq508ekq42auwt6rmvc0n5xpj4"
+            },
+            {
                 "rpcAddress": "provider.lava-testnet-2.lava.aviaone.com:443",
                 "publicAddress": "lava@12yevt5a2cdk70vyhxquw0gws0zquam80f66sae"
             },
@@ -72,6 +76,10 @@
             {
                 "rpcAddress": "provider-test.bwglava.space:443",
                 "publicAddress": "lava@1jeueja62954qjywk5cn77u3599afr62f90na7e"
+            },
+            {
+                "rpcAddress": "lavad.irynamcc.co.uk:443",
+                "publicAddress": "lava@1m5p9cc4lp6jxdsk3pdf56tek2muzu3sm4rhp5f"
             },
             {
                 "rpcAddress": "lava-testnet-provider.w3coins.io:443",
