@@ -10,10 +10,6 @@
                 "publicAddress": "lava@1u77axjrkfq6vkxyp42hc0fjh6pqkacu3dx9t3k"
             },
             {
-                "rpcAddress": "lav1-lava-provider.theamsolutions.info:443",
-                "publicAddress": "lava@125xzjslh36v5g76cypzslplqm64mhzz03mwnec"
-            },
-            {
                 "rpcAddress": "lava-testnet.provider.alexz.site:443",
                 "publicAddress": "lava@10h0ly2066gdnlq508ekq42auwt6rmvc0n5xpj4"
             },
