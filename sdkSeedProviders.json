@@ -42,6 +42,10 @@
                 "publicAddress": "lava@16g7cdvjl8x63rl33dq978wz2h6ghp2ezmepu7k"
             },
             {
+                "rpcAddress": "lava-test-provider.redbooker.xyz:443",
+                "publicAddress": "lava@1ap2rdg8u6ku0m5vesr6kefkgvfz3fg0jg66plt"
+            },
+            {
                 "rpcAddress": "lav.5elementsnodes.com:443",
                 "publicAddress": "lava@1e8fz22klkvgd6treqml3twvzk8wlle0tq9zn9r"
             },
