@@ -30,10 +30,6 @@
                 "publicAddress": "lava@1w428yq04a5084efz2ljvnwd2cmdlspee7tq8fl"
             },
             {
-                "rpcAddress": "madi-testnew.bwglava.space:443",
-                "publicAddress": "lava@10z2xdduvs23hwl6368m37hk7raprz75vacajhf"
-            },
-            {
                 "rpcAddress": "lava-testnet-provider.crouton.digital:443",
                 "publicAddress": "lava@1066rljqtct0y969whtagf9v68a86gwg5jycfyf"
             },
@@ -44,6 +40,10 @@
             {
                 "rpcAddress": "lava-test-provider.redbooker.xyz:443",
                 "publicAddress": "lava@1ap2rdg8u6ku0m5vesr6kefkgvfz3fg0jg66plt"
+            },
+            {
+                "rpcAddress": "lav1.lava-rpc.01no.de:443",
+                "publicAddress": "lava@1czgrha7ys2698xve2gz4xaccteplrzx8s9fh7e"
             },
             {
                 "rpcAddress": "lav.5elementsnodes.com:443",
