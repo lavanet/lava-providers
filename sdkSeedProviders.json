@@ -80,10 +80,6 @@
             {
                 "rpcAddress": "provider.sgtstake.com:443",
                 "publicAddress": "lava@1uhwudw7vzqtnffu2hf5yhv4n8trj79ezl66z99"
-            },
-            {
-                "rpcAddress": "lava.lavanetrpc.xyz:443",
-                "publicAddress": "lava@1us59u4u0t5l243hmkvrz5fvthpxu0c20axm4ra"
             }
         ],
         "8": [
